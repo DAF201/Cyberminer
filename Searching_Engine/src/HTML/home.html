@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyberminer Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        .mid {
+            margin-top: 10%;
+            text-align: center;
+        }
+
+        .home_search_bar {
+            margin-top: 20px;
+        }
+
+        .suggestions {
+            border-top: none;
+            max-height: 150px;
+            overflow-y: auto;
+            position: absolute;
+            z-index: 1000;
+            background: white;
+            width: 100%;
+            margin-top: -1px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .suggestion-item {
+            padding: 10px;
+            cursor: pointer;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .suggestion-item:hover {
+            background-color: #f0f0f0;
+        }
+
+        #hint {
+            text-align: left;
+            margin: 20px auto;
+            max-width: 600px;
+            background-color: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9963972466789192"
+        crossorigin="anonymous"></script>
+    <!-- ads -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9963972466789192" data-ad-slot="6776466498"
+        data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+    <!-- to do the actual post -->
+    <form action="/search" method="post" id="search_post_form" target="_blank" class="hidden">
+        <input type="text" name="search_area" id="not_visible_input_box_area">
+        <input type="text" name="search_keywords" id="not_visible_input_box">
+        <input type="text" name="search_mode" id="not_visible_search_mode_box" value="MIXED">
+        <input type="text" name="result_order" id="not_visible_result_order_box">
+    </form>
+
+    <div class="mid">
+        <h1>Cyberminer</h1>
+        <!-- search for a url in a specific area to reduce the time cost of searching remining keys -->
+        <div>Area of searching:
+            <input type="text" id="visible_input_box_area" onkeyup="autocompleteArea(event)">
+        </div>
+        <div class="home_search_bar">
+            <input type="text" id="visible_input_box" size="50" onkeyup="autocompleteService(event)">
+            <button type="submit" onclick="submit_form()"><i>Search</i></button>
+        </div>
+
+        <!-- abandoned prototype -->
+        <div class="hidden">
+            <input type="radio" id="OR" name="search_mode" value="OR" onclick="hide_searching_hint()" checked>
+            <label for="OR">OR</label>
+            <input type="radio" id="AND" name="search_mode" value="AND" onclick="hide_searching_hint()">
+            <label for="AND">AND</label>
+            <input type="radio" id="MIXED" name="search_mode" value="MIXED">
+            <label for="MIXED" onclick="show_searching_hint()">ADVANCED</label><br>
+        </div>
+        <!-- <input type="radio" id="association" name="result_order" value="association" checked>
+        <label for="association">Association</label> -->
+
+        <input type="radio" id="ascending" name="result_order" value="ascending" checked>
+        <label for="ascending">Ascending</label>
+        <input type="radio" id="decending" name="result_order" value="decending">
+        <label for="decending">Decending</label><br><br>
+
+        <div id="hint">
+            <p>Hint:</p>
+            <p>For mixed searching, use leading & for "AND" key, and ! for "NOT" key, any keyword with no prefix will be
+                "OR" key.</p>
+            <p>For example, <b>"search &engine !google"</b> in searching area <b>"search"</b> will return results about
+                search
+                which contains "search" and "engine" in their keywords but does not contain "google".</p>
+        </div>
+
+        <!-- provide suggestions about search -->
+        <div id="suggestions_area" class="suggestions"></div>
+        <div id="suggestions_item" class="suggestions"></div>
+    </div>
+
+    <script>
+        // load the possible keys
+        let jsonData = {};
+
+        fetch('/autocomplete')
+            .then(response => response.json())
+            .then(data => {
+                jsonData = data;
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+
+
+        function autocompleteArea(event) {
+            const input = event.target.value.toLowerCase();
+            const suggestionsArea = document.getElementById('suggestions_area');
+            suggestionsArea.innerHTML = '';
+
+            // when key press, match possible keys
+            if (input) {
+                const filteredKeys = Object.keys(jsonData).filter(key => key.toLowerCase().includes(input));
+
+                // append to the suggestion area
+                filteredKeys.forEach(key => {
+                    const item = document.createElement('div');
+                    item.className = 'suggestion-item';
+                    item.textContent = key;
+
+                    // when clicked, fill the input
+                    item.onclick = () => {
+                        document.getElementById('visible_input_box_area').value = key;
+                        suggestionsArea.innerHTML = '';
+                    };
+                    suggestionsArea.appendChild(item);
+                });
+            }
+        }
+
+        // same as above
+        function autocompleteService(event) {
+            const categoryInput = document.getElementById('visible_input_box_area').value;
+            const suggestionsItem = document.getElementById('suggestions_item');
+            suggestionsItem.innerHTML = '';
+            const items = jsonData[categoryInput] ? Object.keys(jsonData[categoryInput]) : [];
+
+            const input = event.target.value.toLowerCase();
+            if (input && items.length) {
+                const filteredItems = items.filter(item => item.toLowerCase().includes(input));
+
+                filteredItems.forEach(item => {
+                    const suggestionItem = document.createElement('div');
+                    suggestionItem.className = 'suggestion-item';
+                    suggestionItem.textContent = item;
+
+                    suggestionItem.onclick = () => {
+                        document.getElementById('visible_input_box').value = item;
+                        suggestionsItem.innerHTML = '';
+                    };
+                    suggestionsItem.appendChild(suggestionItem);
+                });
+            }
+        }
+
+        //copy value to hidden form and submit
+        function submit_form() {
+            document.getElementById('not_visible_input_box_area').value = document.getElementById('visible_input_box_area').value;
+            document.getElementById('not_visible_input_box').value = document.getElementById('visible_input_box').value;
+            document.getElementById('not_visible_search_mode_box').value = get_radio("search_mode");
+            document.getElementById('not_visible_result_order_box').value = get_radio("result_order");
+            document.getElementById('search_post_form').submit();
+        }
+
+        // clear suggestions if clicked on one of them
+        document.addEventListener('click', (event) => {
+            const suggestionsArea = document.getElementById('suggestions_area');
+            const suggestionsItem = document.getElementById('suggestions_item');
+            const areaInput = document.getElementById('visible_input_box_area');
+            const keywordsInput = document.getElementById('visible_input_box');
+
+            if (!suggestionsArea.contains(event.target) && event.target !== areaInput) {
+                suggestionsArea.innerHTML = '';
+            }
+            if (!suggestionsItem.contains(event.target) && event.target !== keywordsInput) {
+                suggestionsItem.innerHTML = '';
+            }
+        });
+
+        // get selection of ordering
+        function get_radio(element_name) {
+            const elements = document.getElementsByName(element_name);
+            for (let i = 0; i < elements.length; i++) {
+                if (elements[i].checked) {
+                    return elements[i].value;
+                }
+            }
+        }
+
+        // prototype features
+        // function show_searching_hint() {
+        //     document.getElementById("hint").style.display = "block";
+        // }
+
+        // function hide_searching_hint() {
+        //     document.getElementById("hint").style.display = "none";
+        // }
+    </script>
+</body>
+
+</html>

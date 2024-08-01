@@ -1,0 +1,1 @@
+cd C:\Users\daf20\Desktop\Searching_Engine && pythonw src\python\main.py

@@ -1,0 +1,2723 @@
+{
+    "search": {
+        "google": [
+            "https://google.com",
+            "The most widely used search engine.",
+            1,
+            [
+                "google",
+                "search",
+                "engine"
+            ]
+        ],
+        "bing": [
+            "https://www.bing.com",
+            "A web search engine owned and operated by Microsoft.",
+            1,
+            [
+                "bing",
+                "search",
+                "engine",
+                "microsoft"
+            ]
+        ],
+        "duckduckgo": [
+            "https://duckduckgo.com",
+            "A search engine that emphasizes protecting searchers' privacy.",
+            1,
+            [
+                "duckduckgo",
+                "search",
+                "privacy"
+            ]
+        ],
+        "yahoo": [
+            "https://www.yahoo.com",
+            "A web services provider known for its search engine.",
+            1,
+            [
+                "yahoo",
+                "search",
+                "web"
+            ]
+        ],
+        "baidu": [
+            "https://www.baidu.com",
+            "A Chinese search engine known for its comprehensive results.",
+            1,
+            [
+                "baidu",
+                "search",
+                "china"
+            ]
+        ],
+        "ask": [
+            "https://www.ask.com",
+            "A question-answering website that uses a search engine for results.",
+            1,
+            [
+                "ask",
+                "questions",
+                "search"
+            ]
+        ],
+        "aol": [
+            "https://www.aol.com",
+            "A web portal and online service that features a search engine.",
+            1,
+            [
+                "aol",
+                "portal",
+                "search"
+            ]
+        ],
+        "quora": [
+            "https://www.quora.com",
+            "Question-and-answer website.",
+            1,
+            [
+                "quora",
+                "questions",
+                "answers"
+            ]
+        ],
+        "startpage": [
+            "https://www.startpage.com",
+            "Private search engine that emphasizes user privacy.",
+            1,
+            [
+                "startpage",
+                "search",
+                "privacy"
+            ]
+        ],
+        "yandex": [
+            "https://yandex.com",
+            "A Russian search engine that also provides various services.",
+            1,
+            [
+                "yandex",
+                "search",
+                "russia"
+            ]
+        ],
+        "dogpile": [
+            "https://www.dogpile.com",
+            "Metasearch engine that retrieves results from various search engines.",
+            1,
+            [
+                "dogpile",
+                "metasearch",
+                "engine"
+            ]
+        ],
+        "webcrawler": [
+            "https://www.webcrawler.com",
+            "Early search engine that aggregates results from other engines.",
+            1,
+            [
+                "webcrawler",
+                "search",
+                "aggregator"
+            ]
+        ],
+        "lycos": [
+            "https://www.lycos.com",
+            "One of the original search engines that now features directories.",
+            1,
+            [
+                "lycos",
+                "search",
+                "directories"
+            ]
+        ],
+        "iknow": [
+            "https://iknow.com",
+            "Web search engine that emphasizes user interaction.",
+            1,
+            [
+                "iknow",
+                "search",
+                "interaction"
+            ]
+        ],
+        "qwant": [
+            "https://www.qwant.com",
+            "Search engine that respects user privacy.",
+            1,
+            [
+                "qwant",
+                "search",
+                "privacy"
+            ]
+        ],
+        "metacrawler": [
+            "https://www.metacrawler.com",
+            "Search engine that aggregates results from various search engines.",
+            1,
+            [
+                "metacrawler",
+                "search",
+                "aggregator"
+            ]
+        ],
+        "factbites": [
+            "http://www.factbites.com",
+            "Search engine that provides summaries of information.",
+            1,
+            [
+                "factbites",
+                "search",
+                "summaries"
+            ]
+        ],
+        "sogou": [
+            "https://www.sogou.com",
+            "Popular search engine in China.",
+            1,
+            [
+                "sogou",
+                "search",
+                "china"
+            ]
+        ],
+        "askjeeves": [
+            "https://www.ask.com",
+            "Question and answer search engine.",
+            1,
+            [
+                "askjeeves",
+                "questions",
+                "search"
+            ]
+        ]
+    },
+    "social": {
+        "facebook": [
+            "https://www.facebook.com",
+            "Connect with friends and family on this social media platform.",
+            1,
+            [
+                "facebook",
+                "social",
+                "media"
+            ]
+        ],
+        "twitter": [
+            "https://twitter.com",
+            "A platform for public self-expression and conversation in real time.",
+            1,
+            [
+                "twitter",
+                "social",
+                "media",
+                "conversation"
+            ]
+        ],
+        "instagram": [
+            "https://www.instagram.com",
+            "Photo and video sharing social networking service.",
+            1,
+            [
+                "instagram",
+                "social",
+                "media",
+                "photo"
+            ]
+        ],
+        "tiktok": [
+            "https://www.tiktok.com",
+            "An app for creating and sharing short videos.",
+            1,
+            [
+                "tiktok",
+                "video",
+                "share"
+            ]
+        ],
+        "linkedin": [
+            "https://www.linkedin.com",
+            "Professional networking site for career and business.",
+            1,
+            [
+                "linkedin",
+                "professional",
+                "networking"
+            ]
+        ],
+        "snapchat": [
+            "https://www.snapchat.com",
+            "A multimedia messaging app.",
+            1,
+            [
+                "snapchat",
+                "messaging",
+                "media"
+            ]
+        ],
+        "pinterest": [
+            "https://www.pinterest.com",
+            "A visual discovery engine for finding ideas and inspiration.",
+            1,
+            [
+                "pinterest",
+                "visual",
+                "ideas"
+            ]
+        ],
+        "reddit": [
+            "https://www.reddit.com",
+            "Social news aggregation site.",
+            1,
+            [
+                "reddit",
+                "social",
+                "news"
+            ]
+        ],
+        "myspace": [
+            "https://myspace.com",
+            "Social networking site known for its music community.",
+            1,
+            [
+                "myspace",
+                "social",
+                "music"
+            ]
+        ],
+        "tumblr": [
+            "https://www.tumblr.com",
+            "A microblogging platform and social network.",
+            1,
+            [
+                "tumblr",
+                "microblogging",
+                "social"
+            ]
+        ],
+        "wechat": [
+            "https://www.wechat.com",
+            "A multi-purpose messaging, social media, and mobile payment app.",
+            1,
+            [
+                "wechat",
+                "messaging",
+                "social"
+            ]
+        ],
+        "vk": [
+            "https://vk.com",
+            "Popular social media platform in Russia.",
+            1,
+            [
+                "vk",
+                "social",
+                "media",
+                "russia"
+            ]
+        ],
+        "parler": [
+            "https://parler.com",
+            "A web-based social networking service promoting free speech.",
+            1,
+            [
+                "parler",
+                "social",
+                "networking"
+            ]
+        ],
+        "gab": [
+            "https://gab.com",
+            "Social media platform for free speech.",
+            1,
+            [
+                "gab",
+                "social",
+                "media",
+                "free"
+            ]
+        ],
+        "clubhouse": [
+            "https://www.joinclubhouse.com",
+            "Audio-based social networking app for live discussions.",
+            1,
+            [
+                "clubhouse",
+                "audio",
+                "social"
+            ]
+        ],
+        "telegram": [
+            "https://telegram.org",
+            "Messaging app emphasizing privacy and security.",
+            1,
+            [
+                "telegram",
+                "messaging",
+                "privacy"
+            ]
+        ],
+        "discord": [
+            "https://discord.com",
+            "Voice, video, and text chat platform designed for gamers.",
+            1,
+            [
+                "discord",
+                "chat",
+                "gamers"
+            ]
+        ],
+        "foursquare": [
+            "https://foursquare.com",
+            "Location-based social networking platform.",
+            1,
+            [
+                "foursquare",
+                "location",
+                "networking"
+            ]
+        ],
+        "nextdoor": [
+            "https://nextdoor.com",
+            "Social network for neighborhoods to connect and share.",
+            1,
+            [
+                "nextdoor",
+                "neighborhood",
+                "social"
+            ]
+        ],
+        "badoo": [
+            "https://www.badoo.com",
+            "Social discovery and dating app.",
+            1,
+            [
+                "badoo",
+                "social",
+                "dating"
+            ]
+        ],
+        "meetup": [
+            "https://www.meetup.com",
+            "Platform for finding and building local communities.",
+            1,
+            [
+                "meetup",
+                "community",
+                "local"
+            ]
+        ],
+        "myheritage": [
+            "https://www.myheritage.com",
+            "Genealogy website that integrates social networking.",
+            1,
+            [
+                "myheritage",
+                "genealogy",
+                "social"
+            ]
+        ],
+        "deviantart": [
+            "https://www.deviantart.com",
+            "Online community showcasing various forms of user-made artwork.",
+            1,
+            [
+                "deviantart",
+                "art",
+                "community"
+            ]
+        ],
+        "flickr": [
+            "https://www.flickr.com",
+            "Image and video hosting service.",
+            1,
+            [
+                "flickr",
+                "image",
+                "video"
+            ]
+        ],
+        "mix": [
+            "https://mix.com",
+            "Content curation and discovery platform.",
+            1,
+            [
+                "mix",
+                "curation",
+                "content"
+            ]
+        ],
+        "quibb": [
+            "https://quibb.com",
+            "Social network for professional sharing and discussion.",
+            1,
+            [
+                "quibb",
+                "professional",
+                "discussion"
+            ]
+        ],
+        "ello": [
+            "https://ello.co",
+            "Creative network and social media platform.",
+            1,
+            [
+                "ello",
+                "creative",
+                "social"
+            ]
+        ]
+    },
+    "email": {
+        "gmail": [
+            "https://mail.google.com",
+            "Google's email service with ample storage and features.",
+            1,
+            [
+                "gmail",
+                "email",
+                "google"
+            ]
+        ],
+        "outlook": [
+            "https://outlook.live.com",
+            "Microsoft's web-based email service.",
+            1,
+            [
+                "outlook",
+                "email",
+                "microsoft"
+            ]
+        ],
+        "yahoo": [
+            "https://mail.yahoo.com",
+            "A free email service offered by Yahoo.",
+            1,
+            [
+                "yahoo",
+                "email",
+                "service"
+            ]
+        ],
+        "protonmail": [
+            "https://protonmail.com",
+            "Secure email service with end-to-end encryption.",
+            1,
+            [
+                "protonmail",
+                "secure",
+                "encryption"
+            ]
+        ],
+        "zoho": [
+            "https://www.zoho.com/mail",
+            "An email hosting service with collaboration tools.",
+            1,
+            [
+                "zoho",
+                "email",
+                "collaboration"
+            ]
+        ],
+        "mailchimp": [
+            "https://mailchimp.com",
+            "Email marketing service and marketing automation platform.",
+            1,
+            [
+                "mailchimp",
+                "email",
+                "marketing"
+            ]
+        ],
+        "fastmail": [
+            "https://www.fastmail.com",
+            "Email service offering privacy and customization options.",
+            1,
+            [
+                "fastmail",
+                "privacy",
+                "customization"
+            ]
+        ],
+        "tutanota": [
+            "https://tutanota.com",
+            "Secure email service with encryption.",
+            1,
+            [
+                "tutanota",
+                "secure",
+                "encryption"
+            ]
+        ],
+        "hushmail": [
+            "https://www.hushmail.com",
+            "Secure email service focusing on privacy.",
+            1,
+            [
+                "hushmail",
+                "secure",
+                "privacy"
+            ]
+        ],
+        "sayvpn": [
+            "https://sayvpn.com",
+            "A privacy-focused email service.",
+            1,
+            [
+                "sayvpn",
+                "privacy",
+                "email"
+            ]
+        ],
+        "mailjet": [
+            "https://www.mailjet.com",
+            "Email service provider focusing on transactional and marketing emails.",
+            1,
+            [
+                "mailjet",
+                "email",
+                "transactional"
+            ]
+        ],
+        "sendinblue": [
+            "https://www.sendinblue.com",
+            "Email marketing service with automation tools.",
+            1,
+            [
+                "sendinblue",
+                "email",
+                "marketing"
+            ]
+        ],
+        "yandex": [
+            "https://mail.yandex.com",
+            "Russian email service with various features.",
+            1,
+            [
+                "yandex",
+                "email",
+                "russia"
+            ]
+        ],
+        "avaaz": [
+            "https://avaaz.org",
+            "Global activism organization providing email services.",
+            1,
+            [
+                "avaaz",
+                "activism",
+                "email"
+            ]
+        ],
+        "outlook_express": [
+            "https://outlook.live.com/mail/",
+            "Microsoft’s desktop email client.",
+            1,
+            [
+                "outlook_express",
+                "desktop",
+                "microsoft"
+            ]
+        ],
+        "mail": [
+            "https://www.mail.com",
+            "Email service with customizable domains.",
+            1,
+            [
+                "mail",
+                "customizable",
+                "domains"
+            ]
+        ],
+        "inbox": [
+            "https://inbox.com",
+            "Free web-based email service.",
+            1,
+            [
+                "inbox",
+                "email",
+                "web"
+            ]
+        ],
+        "hush": [
+            "https://hush.com",
+            "Privacy-focused email service.",
+            1,
+            [
+                "hush",
+                "privacy",
+                "email"
+            ]
+        ],
+        "countermail": [
+            "https://countermail.com",
+            "Secure email service with encryption.",
+            1,
+            [
+                "countermail",
+                "secure",
+                "encryption"
+            ]
+        ]
+    },
+    "cloud": {
+        "drive": [
+            "https://www.google.com/drive",
+            "Cloud storage service from Google for files and documents.",
+            1,
+            [
+                "drive",
+                "cloud",
+                "storage",
+                "google"
+            ]
+        ],
+        "dropbox": [
+            "https://www.dropbox.com",
+            "File hosting service offering cloud storage and synchronization.",
+            1,
+            [
+                "dropbox",
+                "file",
+                "hosting"
+            ]
+        ],
+        "onedrive": [
+            "https://onedrive.live.com",
+            "Microsoft's cloud storage service.",
+            1,
+            [
+                "onedrive",
+                "cloud",
+                "microsoft"
+            ]
+        ],
+        "icloud": [
+            "https://www.icloud.com",
+            "Cloud storage service from Apple.",
+            1,
+            [
+                "icloud",
+                "cloud",
+                "apple"
+            ]
+        ],
+        "box": [
+            "https://www.box.com",
+            "Cloud storage service that allows businesses to manage files.",
+            1,
+            [
+                "box",
+                "cloud",
+                "business"
+            ]
+        ],
+        "pcloud": [
+            "https://www.pcloud.com",
+            "Cloud storage service that allows users to store files.",
+            1,
+            [
+                "pcloud",
+                "cloud",
+                "storage"
+            ]
+        ],
+        "mega": [
+            "https://mega.nz",
+            "Cloud storage and file hosting service known for security.",
+            1,
+            [
+                "mega",
+                "cloud",
+                "security"
+            ]
+        ],
+        "sync": [
+            "https://sync.com",
+            "Secure cloud storage with end-to-end encryption.",
+            1,
+            [
+                "sync",
+                "secure",
+                "encryption"
+            ]
+        ],
+        "mediafire": [
+            "https://www.mediafire.com",
+            "File hosting and cloud storage service.",
+            1,
+            [
+                "mediafire",
+                "file",
+                "hosting"
+            ]
+        ],
+        "tardigrade": [
+            "https://tardigrade.io",
+            "Decentralized cloud storage network.",
+            1,
+            [
+                "tardigrade",
+                "decentralized",
+                "cloud"
+            ]
+        ],
+        "backblaze": [
+            "https://www.backblaze.com",
+            "Cloud backup service for personal and business use.",
+            1,
+            [
+                "backblaze",
+                "backup",
+                "cloud"
+            ]
+        ],
+        "s3": [
+            "https://aws.amazon.com/s3/",
+            "Scalable object storage service for developers.",
+            1,
+            [
+                "s3",
+                "scalable",
+                "storage"
+            ]
+        ],
+        "hubic": [
+            "https://hubic.com",
+            "Online storage service allowing users to store files in the cloud.",
+            1,
+            [
+                "hubic",
+                "online",
+                "storage"
+            ]
+        ],
+        "zoolz": [
+            "https://www.zoolz.com",
+            "Cloud storage service focusing on archiving.",
+            1,
+            [
+                "zoolz",
+                "archiving",
+                "cloud"
+            ]
+        ],
+        "idrive": [
+            "https://www.idrive.com",
+            "Online backup and hosting service with multiple features.",
+            1,
+            [
+                "idrive",
+                "backup",
+                "hosting"
+            ]
+        ],
+        "folder": [
+            "https://folderbackup.com",
+            "Cloud storage solution for protecting files.",
+            1,
+            [
+                "folder",
+                "storing",
+                "files"
+            ]
+        ],
+        "digi": [
+            "https://digi-box.com",
+            "Online storage service focusing on simplicity and speed.",
+            1,
+            [
+                "digi",
+                "storage",
+                "speed"
+            ]
+        ],
+        "bitbucket": [
+            "https://bitbucket.org",
+            "Cloud-based version control system.",
+            1,
+            [
+                "bitbucket",
+                "version",
+                "control"
+            ]
+        ],
+        "backblaze_b2": [
+            "https://www.backblaze.com/b2/cloud-storage.html",
+            "Affordable cloud storage for businesses.",
+            1,
+            [
+                "backblaze_b2",
+                "cloud",
+                "affordable"
+            ]
+        ]
+    },
+    "video": {
+        "youtube": [
+            "https://www.youtube.com/",
+            "Video sharing platform for user-uploaded videos.",
+            1,
+            [
+                "youtube",
+                "video",
+                "sharing"
+            ]
+        ],
+        "netflix": [
+            "https://www.netflix.com",
+            "Subscription-based streaming service for TV shows and movies.",
+            1,
+            [
+                "netflix",
+                "streaming",
+                "movies"
+            ]
+        ],
+        "hulu": [
+            "https://www.hulu.com",
+            "Streaming service with live and on-demand TV.",
+            1,
+            [
+                "hulu",
+                "streaming",
+                "tv"
+            ]
+        ],
+        "prime": [
+            "https://www.amazon.com/primevideo",
+            "Streaming service included with an Amazon Prime account.",
+            1,
+            [
+                "prime",
+                "amazon",
+                "streaming"
+            ]
+        ],
+        "vimeo": [
+            "https://vimeo.com",
+            "Video hosting service for user-generated content.",
+            1,
+            [
+                "vimeo",
+                "video",
+                "content"
+            ]
+        ],
+        "disney": [
+            "https://www.disneyplus.com",
+            "Streaming service featuring Disney, Pixar, Marvel, and more.",
+            1,
+            [
+                "disney",
+                "streaming",
+                "pixar"
+            ]
+        ],
+        "twitch": [
+            "https://www.twitch.tv",
+            "Live streaming platform primarily for gamers.",
+            1,
+            [
+                "twitch",
+                "live",
+                "gaming"
+            ]
+        ],
+        "watch": [
+            "https://www.facebook.com/watch",
+            "Facebook's video-on-demand service.",
+            1,
+            [
+                "watch",
+                "video",
+                "facebook"
+            ]
+        ],
+        "dailymotion": [
+            "https://www.dailymotion.com",
+            "Video sharing platform for user-generated and professional content.",
+            1,
+            [
+                "dailymotion",
+                "videos",
+                "sharing"
+            ]
+        ],
+        "peacock": [
+            "https://www.peacocktv.com",
+            "Streaming service from NBCUniversal.",
+            1,
+            [
+                "peacock",
+                "streaming",
+                "nbcuniversal"
+            ]
+        ],
+        "paramount": [
+            "https://www.paramountplus.com",
+            "Streaming platform with live and on-demand entertainment.",
+            1,
+            [
+                "paramount",
+                "streaming",
+                "entertainment"
+            ]
+        ],
+        "crunchyroll": [
+            "https://www.crunchyroll.com",
+            "Streaming service specializing in anime and manga.",
+            1,
+            [
+                "crunchyroll",
+                "streaming",
+                "anime"
+            ]
+        ],
+        "funimation": [
+            "https://www.funimation.com",
+            "Service focused on dubbed and subbed anime content.",
+            1,
+            [
+                "funimation",
+                "anime",
+                "content"
+            ]
+        ],
+        "hbomax": [
+            "https://www.hbomax.com",
+            "Streaming service featuring HBO's premium content.",
+            1,
+            [
+                "hbomax",
+                "streaming",
+                "hbo"
+            ]
+        ],
+        "shudder": [
+            "https://www.shudder.com",
+            "Streaming service for horror, thriller, and suspense films.",
+            1,
+            [
+                "shudder",
+                "horror",
+                "streaming"
+            ]
+        ],
+        "fubo": [
+            "https://www.fubo.tv",
+            "Streaming service specializing in live sports and TV.",
+            1,
+            [
+                "fubo",
+                "streaming",
+                "sports"
+            ]
+        ],
+        "sling": [
+            "https://www.sling.com",
+            "Live TV streaming service.",
+            1,
+            [
+                "sling",
+                "live",
+                "tv"
+            ]
+        ],
+        "freevee": [
+            "https://www.amazon.com/freevee",
+            "Free streaming service from Amazon with ads.",
+            1,
+            [
+                "freevee",
+                "streaming",
+                "amazon"
+            ]
+        ],
+        "plex": [
+            "https://www.plex.tv",
+            "Media server platform that allows streaming of personal content.",
+            1,
+            [
+                "plex",
+                "media",
+                "server"
+            ]
+        ],
+        "vLive": [
+            "https://www.vlive.tv",
+            "Live streaming app primarily for K-pop and entertainment.",
+            1,
+            [
+                "vlive",
+                "streaming",
+                "kpop"
+            ]
+        ],
+        "TikTok": [
+            "https://www.tiktok.com",
+            "Short-form video hosting service.",
+            1,
+            [
+                "tiktok",
+                "short-form",
+                "video"
+            ]
+        ]
+    },
+    "ecommerce": {
+        "amazon": [
+            "https://www.amazon.com",
+            "Largest internet retailer, providing a wide variety of products.",
+            1,
+            [
+                "amazon",
+                "ecommerce",
+                "retailer"
+            ]
+        ],
+        "ebay": [
+            "https://www.ebay.com",
+            "Online auction and shopping website.",
+            1,
+            [
+                "ebay",
+                "auction",
+                "shopping"
+            ]
+        ],
+        "etsy": [
+            "https://www.etsy.com",
+            "Marketplace for handmade and vintage items.",
+            1,
+            [
+                "etsy",
+                "marketplace",
+                "handmade"
+            ]
+        ],
+        "walmart": [
+            "https://www.walmart.com",
+            "Online presence of the largest grocery retailer in the USA.",
+            1,
+            [
+                "walmart",
+                "grocery",
+                "retailer"
+            ]
+        ],
+        "bestbuy": [
+            "https://www.bestbuy.com",
+            "Retail establishment specializing in consumer electronics.",
+            1,
+            [
+                "bestbuy",
+                "retailer",
+                "electronics"
+            ]
+        ],
+        "shopify": [
+            "https://www.shopify.com",
+            "E-commerce platform for online stores.",
+            1,
+            [
+                "shopify",
+                "ecommerce",
+                "platform"
+            ]
+        ],
+        "alibaba": [
+            "https://www.alibaba.com",
+            "Online marketplace connecting businesses with suppliers.",
+            1,
+            [
+                "alibaba",
+                "marketplace",
+                "businesses"
+            ]
+        ],
+        "rakuten": [
+            "https://www.rakuten.com",
+            "E-commerce platform known for cash-back shopping.",
+            1,
+            [
+                "rakuten",
+                "ecommerce",
+                "cash-back"
+            ]
+        ],
+        "newegg": [
+            "https://www.newegg.com",
+            "E-commerce site specializing in computer hardware.",
+            1,
+            [
+                "newegg",
+                "ecommerce",
+                "hardware"
+            ]
+        ],
+        "overstock": [
+            "https://www.overstock.com",
+            "Retailer offering discounted brand-name products.",
+            1,
+            [
+                "overstock",
+                "retailer",
+                "discounts"
+            ]
+        ],
+        "wayfair": [
+            "https://www.wayfair.com",
+            "Online retailer specializing in home goods and furniture.",
+            1,
+            [
+                "wayfair",
+                "retailer",
+                "home"
+            ]
+        ],
+        "aliexpress": [
+            "https://www.aliexpress.com",
+            "Online retail service based in China.",
+            1,
+            [
+                "aliexpress",
+                "online",
+                "china"
+            ]
+        ],
+        "chewy": [
+            "https://www.chewy.com",
+            "Online retailer specializing in pet food and products.",
+            1,
+            [
+                "chewy",
+                "ecommerce",
+                "pets"
+            ]
+        ],
+        "poshmark": [
+            "https://poshmark.com",
+            "Social commerce platform for buying and selling fashion.",
+            1,
+            [
+                "poshmark",
+                "social",
+                "fashion"
+            ]
+        ],
+        "depop": [
+            "https://www.depop.com",
+            "Mobile app for buying and selling fashion and accessories.",
+            1,
+            [
+                "depop",
+                "app",
+                "fashion"
+            ]
+        ],
+        "thredup": [
+            "https://www.thredup.com",
+            "Online consignment store for secondhand clothes.",
+            1,
+            [
+                "thredup",
+                "consignment",
+                "clothes"
+            ]
+        ],
+        "bonanza": [
+            "https://www.bonanza.com",
+            "Online marketplace for various products.",
+            1,
+            [
+                "bonanza",
+                "marketplace",
+                "products"
+            ]
+        ],
+        "dhgate": [
+            "https://www.dhgate.com",
+            "E-commerce website connecting buyers with Chinese wholesalers.",
+            1,
+            [
+                "dhgate",
+                "ecommerce",
+                "wholesalers"
+            ]
+        ],
+        "myhabit": [
+            "https://www.myhabit.com",
+            "Online shopping site for fashion and lifestyle products.",
+            1,
+            [
+                "myhabit",
+                "shopping",
+                "lifestyle"
+            ]
+        ],
+        "wish": [
+            "https://www.wish.com",
+            "Online shopping platform featuring discounted products.",
+            1,
+            [
+                "wish",
+                "shopping",
+                "discounts"
+            ]
+        ],
+        "target": [
+            "https://www.target.com",
+            "Retailer with a strong online shopping presence.",
+            1,
+            [
+                "target",
+                "retailer",
+                "online"
+            ]
+        ],
+        "zappos": [
+            "https://www.zappos.com",
+            "Online shoe and clothing retailer.",
+            1,
+            [
+                "zappos",
+                "retailer",
+                "shoes"
+            ]
+        ]
+    },
+    "news": {
+        "cnn": [
+            "https://www.cnn.com",
+            "Provides breaking news, analysis, and opinion.",
+            1,
+            [
+                "cnn",
+                "news",
+                "breaking"
+            ]
+        ],
+        "bbc": [
+            "https://www.bbc.com",
+            "British public service broadcaster providing news worldwide.",
+            1,
+            [
+                "bbc",
+                "news",
+                "broadcaster"
+            ]
+        ],
+        "guardian": [
+            "https://www.theguardian.com",
+            "British news organization known for its coverage of global events.",
+            1,
+            [
+                "guardian",
+                "news",
+                "coverage"
+            ]
+        ],
+        "nytimes": [
+            "https://www.nytimes.com",
+            "American newspaper recognized as a leading source of news.",
+            1,
+            [
+                "nytimes",
+                "newspaper",
+                "source"
+            ]
+        ],
+        "aljazeera": [
+            "https://www.aljazeera.com",
+            "State-funded broadcaster in Qatar providing global news.",
+            1,
+            [
+                "aljazeera",
+                "news",
+                "broadcaster"
+            ]
+        ],
+        "reuters": [
+            "https://www.reuters.com",
+            "International news organization known for credible news coverage.",
+            1,
+            [
+                "reuters",
+                "news",
+                "organization"
+            ]
+        ],
+        "buzzfeed": [
+            "https://www.buzzfeednews.com",
+            "Digital news organization providing news and culture stories.",
+            1,
+            [
+                "buzzfeed",
+                "news",
+                "digital"
+            ]
+        ],
+        "forbes": [
+            "https://www.forbes.com",
+            "Business news and financial information organization.",
+            1,
+            [
+                "forbes",
+                "business",
+                "financial"
+            ]
+        ],
+        "huffpost": [
+            "https://www.huffpost.com",
+            "News aggregation and blog platform.",
+            1,
+            [
+                "huffpost",
+                "news",
+                "aggregation"
+            ]
+        ],
+        "vox": [
+            "https://www.vox.com",
+            "Online news site providing analysis and commentary.",
+            1,
+            [
+                "vox",
+                "news",
+                "analysis"
+            ]
+        ],
+        "abc": [
+            "https://abcnews.go.com",
+            "News division of the American Broadcasting Company.",
+            1,
+            [
+                "abc",
+                "news",
+                "broadcasting"
+            ]
+        ],
+        "nbc": [
+            "https://www.nbcnews.com",
+            "News division of the NBC television network.",
+            1,
+            [
+                "nbc",
+                "news",
+                "television"
+            ]
+        ],
+        "mirror": [
+            "https://www.mirror.co.uk",
+            "UK tabloid newspaper website for news and entertainment.",
+            1,
+            [
+                "mirror",
+                "uk",
+                "newspaper"
+            ]
+        ],
+        "epoch": [
+            "https://www.theepochtimes.com",
+            "Global news organization focusing on investigative journalism.",
+            1,
+            [
+                "epoch",
+                "news",
+                "journalism"
+            ]
+        ],
+        "washington": [
+            "https://www.washingtonpost.com",
+            "American newspaper known for its investigative journalism.",
+            1,
+            [
+                "washington",
+                "newspaper",
+                "investigative"
+            ]
+        ],
+        "financial": [
+            "https://www.ft.com",
+            "International daily newspaper focused on business and economics.",
+            1,
+            [
+                "financial",
+                "newspaper",
+                "business"
+            ]
+        ],
+        "reuters_alert": [
+            "https://alerts.reuters.com",
+            "News alerts powered by Reuters.",
+            1,
+            [
+                "reuters_alert",
+                "alerts",
+                "news"
+            ]
+        ],
+        "politico": [
+            "https://www.politico.com",
+            "Political news organization focusing on U.S. politics.",
+            1,
+            [
+                "politico",
+                "political",
+                "news"
+            ]
+        ],
+        "thehill": [
+            "https://thehill.com",
+            "News outlet focusing on U.S. politics.",
+            1,
+            [
+                "thehill",
+                "news",
+                "politics"
+            ]
+        ],
+        "axios": [
+            "https://www.axios.com",
+            "News website that focuses on business and politics.",
+            1,
+            [
+                "axios",
+                "news",
+                "business"
+            ]
+        ],
+        "scmp": [
+            "https://www.scmp.com",
+            "South China Morning Post, a Hong Kong-based English-language newspaper.",
+            1,
+            [
+                "scmp",
+                "newspaper",
+                "hongkong"
+            ]
+        ]
+    },
+    "music": {
+        "spotify": [
+            "https://www.spotify.com",
+            "Digital music service with millions of songs.",
+            1,
+            [
+                "spotify",
+                "music",
+                "digital"
+            ]
+        ],
+        "apple": [
+            "https://music.apple.com",
+            "Music service from Apple with a vast library.",
+            1,
+            [
+                "apple",
+                "music",
+                "library"
+            ]
+        ],
+        "pandora": [
+            "https://www.pandora.com",
+            "Personalized internet radio service.",
+            1,
+            [
+                "pandora",
+                "internet",
+                "radio"
+            ]
+        ],
+        "tidal": [
+            "https://tidal.com",
+            "Music streaming service known for high fidelity sound quality.",
+            1,
+            [
+                "tidal",
+                "music",
+                "streaming"
+            ]
+        ],
+        "deezer": [
+            "https://www.deezer.com",
+            "Music streaming service with millions of tracks.",
+            1,
+            [
+                "deezer",
+                "music",
+                "streaming"
+            ]
+        ],
+        "amazon": [
+            "https://music.amazon.com",
+            "Streaming service included with Amazon Prime.",
+            1,
+            [
+                "amazon",
+                "streaming",
+                "prime"
+            ]
+        ],
+        "soundcloud": [
+            "https://soundcloud.com",
+            "Music sharing platform that allows users to upload and share music.",
+            1,
+            [
+                "soundcloud",
+                "music",
+                "sharing"
+            ]
+        ],
+        "iheart": [
+            "https://www.iheart.com",
+            "Internet radio platform providing live radio stations.",
+            1,
+            [
+                "iheart",
+                "internet",
+                "radio"
+            ]
+        ],
+        "youtube_music": [
+            "https://music.youtube.com",
+            "Music streaming service developed by YouTube.",
+            1,
+            [
+                "youtube_music",
+                "music",
+                "streaming"
+            ]
+        ],
+        "napster": [
+            "https://us.napster.com",
+            "Music subscription service formerly known as Rhapsody.",
+            1,
+            [
+                "napster",
+                "subscription",
+                "music"
+            ]
+        ],
+        "qobuz": [
+            "https://www.qobuz.com",
+            "Streaming service specializing in high-resolution audio.",
+            1,
+            [
+                "qobuz",
+                "streaming",
+                "audio"
+            ]
+        ],
+        "anghami": [
+            "https://www.anghami.com",
+            "Arabic music streaming service offering a wide selection of songs.",
+            1,
+            [
+                "anghami",
+                "music",
+                "arabic"
+            ]
+        ],
+        "fizy": [
+            "https://fizy.com",
+            "Turkish music streaming service.",
+            1,
+            [
+                "fizy",
+                "music",
+                "turkish"
+            ]
+        ],
+        "radio": [
+            "https://www.applemusic.com/radio",
+            "Curated radio stations integrated into the Apple Music service.",
+            1,
+            [
+                "radio",
+                "curated",
+                "music"
+            ]
+        ],
+        "live365": [
+            "https://live365.com",
+            "Internet radio platform for live music streaming.",
+            1,
+            [
+                "live365",
+                "internet",
+                "music"
+            ]
+        ],
+        "lastfm": [
+            "https://www.last.fm",
+            "Music discovery service that tracks listening habits.",
+            1,
+            [
+                "lastfm",
+                "music",
+                "discovery"
+            ]
+        ],
+        "slacker": [
+            "https://www.slacker.com",
+            "Internet radio and music streaming service.",
+            1,
+            [
+                "slacker",
+                "internet",
+                "radio"
+            ]
+        ],
+        "hearthis": [
+            "https://hearthis.at/",
+            "SoundCloud alternative for music sharing.",
+            1,
+            [
+                "hearthis",
+                "soundcloud",
+                "music"
+            ]
+        ],
+        "tunein": [
+            "https://tunein.com",
+            "Internet radio service offering live streaming of radio stations.",
+            1,
+            [
+                "tunein",
+                "internet",
+                "radio"
+            ]
+        ],
+        "shazam": [
+            "https://www.shazam.com",
+            "Music identification service that suggests songs.",
+            1,
+            [
+                "shazam",
+                "music",
+                "identification"
+            ]
+        ]
+    },
+    "tech": {
+        "techcrunch": [
+            "https://techcrunch.com",
+            "Technology news and analysis platform.",
+            1,
+            [
+                "techcrunch",
+                "technology",
+                "news"
+            ]
+        ],
+        "mashable": [
+            "https://mashable.com",
+            "Global entertainment and tech media company.",
+            1,
+            [
+                "mashable",
+                "media",
+                "entertainment"
+            ]
+        ],
+        "wired": [
+            "https://www.wired.com",
+            "Emerging technologies affecting culture, economy, and politics.",
+            1,
+            [
+                "wired",
+                "technology",
+                "culture"
+            ]
+        ],
+        "verge": [
+            "https://www.theverge.com",
+            "News website focusing on the intersection of technology and culture.",
+            1,
+            [
+                "verge",
+                "technology",
+                "culture"
+            ]
+        ],
+        "engadget": [
+            "https://www.engadget.com",
+            "Covers the intersection of technology and gaming.",
+            1,
+            [
+                "engadget",
+                "technology",
+                "gaming"
+            ]
+        ],
+        "gizmodo": [
+            "https://gizmodo.com",
+            "Design, technology, and science news blog.",
+            1,
+            [
+                "gizmodo",
+                "design",
+                "technology"
+            ]
+        ],
+        "arstechnica": [
+            "https://arstechnica.com",
+            "Technology news and information website.",
+            1,
+            [
+                "arstechnica",
+                "technology",
+                "news"
+            ]
+        ],
+        "venturebeat": [
+            "https://venturebeat.com",
+            "Tech news and analysis platform focused on disruptive tech.",
+            1,
+            [
+                "venturebeat",
+                "tech",
+                "news"
+            ]
+        ],
+        "next": [
+            "https://thenextweb.com",
+            "Business and tech site focused on the future.",
+            1,
+            [
+                "next",
+                "business",
+                "tech"
+            ]
+        ],
+        "zdnet": [
+            "https://www.zdnet.com",
+            "Business technology news and reviews site.",
+            1,
+            [
+                "zdnet",
+                "business",
+                "technology"
+            ]
+        ],
+        "microsoft": [
+            "https://blogs.microsoft.com",
+            "Official blog of Microsoft providing news and updates.",
+            1,
+            [
+                "microsoft",
+                "blog",
+                "updates"
+            ]
+        ],
+        "google": [
+            "https://blog.google",
+            "Official blog of Google sharing news and updates.",
+            1,
+            [
+                "google",
+                "blog",
+                "updates"
+            ]
+        ],
+        "apple": [
+            "https://www.apple.com/newsroom",
+            "Official Apple news release platform.",
+            1,
+            [
+                "apple",
+                "news",
+                "releases"
+            ]
+        ],
+        "hacker": [
+            "https://news.ycombinator.com",
+            "Social news website for sharing technology-related articles.",
+            1,
+            [
+                "hacker",
+                "social",
+                "technology"
+            ]
+        ],
+        "imore": [
+            "https://www.imore.com",
+            "Apple-focused tech news site.",
+            1,
+            [
+                "imore",
+                "apple",
+                "tech"
+            ]
+        ],
+        "android": [
+            "https://www.androidauthority.com",
+            "News, reviews, and insights on Android devices.",
+            1,
+            [
+                "android",
+                "news",
+                "devices"
+            ]
+        ],
+        "gizmodo_tech": [
+            "https://gizmodo.com/tech",
+            "Technology-related content on Gizmodo.",
+            1,
+            [
+                "gizmodo_tech",
+                "technology"
+            ]
+        ],
+        "cnet": [
+            "https://www.cnet.com",
+            "Technology product reviews and news.",
+            1,
+            [
+                "cnet",
+                "reviews",
+                "technology"
+            ]
+        ],
+        "recode": [
+            "https://www.vox.com/recode",
+            "Market-driven tech journalism.",
+            1,
+            [
+                "recode",
+                "journalism",
+                "tech"
+            ]
+        ],
+        "theverge": [
+            "https://www.theverge.com",
+            "Covering the intersection of technology, science, art, and culture.",
+            1,
+            [
+                "theverge",
+                "technology",
+                "science"
+            ]
+        ]
+    },
+    "gaming": {
+        "steam": [
+            "https://store.steampowered.com",
+            "Digital distribution platform primarily for PC gaming.",
+            1,
+            [
+                "steam",
+                "digital",
+                "gaming"
+            ]
+        ],
+        "epic": [
+            "https://www.epicgames.com/store",
+            "Digital video game storefront known for Epic exclusives.",
+            1,
+            [
+                "epic",
+                "gaming",
+                "storefront"
+            ]
+        ],
+        "itch": [
+            "https://itch.io",
+            "Platform for indie games allowing developers to upload their games.",
+            1,
+            [
+                "itch",
+                "gaming",
+                "indie"
+            ]
+        ],
+        "xbox": [
+            "https://www.xbox.com",
+            "Microsoft's gaming platform offering consoles and games.",
+            1,
+            [
+                "xbox",
+                "gaming",
+                "microsoft"
+            ]
+        ],
+        "playstation": [
+            "https://www.playstation.com",
+            "Sony's gaming platform offering consoles and games.",
+            1,
+            [
+                "playstation",
+                "gaming",
+                "sony"
+            ]
+        ],
+        "nintendo": [
+            "https://www.nintendo.com",
+            "Gaming company known for consoles and franchises like Mario.",
+            1,
+            [
+                "nintendo",
+                "gaming",
+                "franchises"
+            ]
+        ],
+        "blizzard": [
+            "https://www.blizzard.com",
+            "Developer known for games like World of Warcraft.",
+            1,
+            [
+                "blizzard",
+                "developer",
+                "games"
+            ]
+        ],
+        "stream": [
+            "https://www.twitch.tv",
+            "Live streaming platform primarily for gamers.",
+            1,
+            [
+                "stream",
+                "live",
+                "gaming"
+            ]
+        ],
+        "game": [
+            "https://gamejolt.com",
+            "Community platform focused on indie games.",
+            1,
+            [
+                "game",
+                "indie",
+                "community"
+            ]
+        ],
+        "kongregate": [
+            "https://www.kongregate.com",
+            "Online gaming platform hosting user-created games.",
+            1,
+            [
+                "kongregate",
+                "online",
+                "gaming"
+            ]
+        ],
+        "armor": [
+            "https://armorgames.com",
+            "Platform for free-to-play online games.",
+            1,
+            [
+                "armor",
+                "online",
+                "gaming"
+            ]
+        ],
+        "battle": [
+            "https://battle.net",
+            "Online gaming platform by Blizzard for multiplayer games.",
+            1,
+            [
+                "battle",
+                "multiplayer",
+                "blizzard"
+            ]
+        ],
+        "gog": [
+            "https://gog.com",
+            "Digital distribution platform known for DRM-free games.",
+            1,
+            [
+                "gog",
+                "digital",
+                "gaming"
+            ]
+        ],
+        "origin": [
+            "https://www.origin.com",
+            "Digital distribution platform by Electronic Arts.",
+            1,
+            [
+                "origin",
+                "digital",
+                "gaming"
+            ]
+        ],
+        "fortnite": [
+            "https://www.fortnite.com",
+            "Popular battle royale game developed by Epic Games.",
+            1,
+            [
+                "fortnite",
+                "gaming",
+                "battle"
+            ]
+        ],
+        "overwatch": [
+            "https://playoverwatch.com",
+            "Team-based multiplayer first-person shooter.",
+            1,
+            [
+                "overwatch",
+                "multiplayer",
+                "shooter"
+            ]
+        ],
+        "valorant": [
+            "https://playvalorant.com",
+            "Tactical first-person shooter developed by Riot Games.",
+            1,
+            [
+                "valorant",
+                "tactical",
+                "shooter"
+            ]
+        ],
+        "rocket": [
+            "https://www.rocketleague.com",
+            "Hybrid soccer-video game combining cars and football.",
+            1,
+            [
+                "rocket",
+                "soccer",
+                "gaming"
+            ]
+        ],
+        "counter": [
+            "https://www.counter-strike.net",
+            "Multi-player first-person shooter video game series.",
+            1,
+            [
+                "counter",
+                "multiplayer",
+                "shooter"
+            ]
+        ],
+        "roblox": [
+            "https://www.roblox.com",
+            "User-generated online gaming platform.",
+            1,
+            [
+                "roblox",
+                "gaming",
+                "online"
+            ]
+        ],
+        "fifa": [
+            "https://www.ea.com/games/fifa",
+            "Popular football simulation video game series.",
+            1,
+            [
+                "fifa",
+                "football",
+                "simulation"
+            ]
+        ],
+        "amongus": [
+            "https://innersloth.com/gameAmongUs.php",
+            "Multiplayer social deduction game.",
+            1,
+            [
+                "amongus",
+                "multiplayer",
+                "game"
+            ]
+        ],
+        "skype": [
+            "https://www.skype.com",
+            "VoIP software providing video chat and voice call services.",
+            1,
+            [
+                "skype",
+                "voip",
+                "chat"
+            ]
+        ]
+    },
+    "blog": {
+        "wordpress": [
+            "https://wordpress.com",
+            "Content management system for creating blogs and websites.",
+            1,
+            [
+                "wordpress",
+                "blog",
+                "cms"
+            ]
+        ],
+        "medium": [
+            "https://medium.com",
+            "Hosting platform for writers to publish content.",
+            1,
+            [
+                "medium",
+                "platform",
+                "writing"
+            ]
+        ],
+        "blogger": [
+            "https://www.blogger.com",
+            "A blog-publishing service that allows multi-user blogs.",
+            1,
+            [
+                "blogger",
+                "blog",
+                "service"
+            ]
+        ],
+        "tumblr": [
+            "https://www.tumblr.com",
+            "A microblogging platform and social network.",
+            1,
+            [
+                "tumblr",
+                "microblogging",
+                "social"
+            ]
+        ],
+        "substack": [
+            "https://substack.com",
+            "Platform used for subscription-based newsletters.",
+            1,
+            [
+                "substack",
+                "newsletters",
+                "subscription"
+            ]
+        ],
+        "ghost": [
+            "https://ghost.org",
+            "Software that allows you to create a blog or website.",
+            1,
+            [
+                "ghost",
+                "blog",
+                "software"
+            ]
+        ],
+        "wix": [
+            "https://www.wix.com",
+            "Website builder that allows users to create their websites.",
+            1,
+            [
+                "wix",
+                "website",
+                "builder"
+            ]
+        ],
+        "squarespace": [
+            "https://www.squarespace.com",
+            "Website building and hosting service.",
+            1,
+            [
+                "squarespace",
+                "website",
+                "hosting"
+            ]
+        ],
+        "weebly": [
+            "https://www.weebly.com",
+            "Website builder suitable for blogs, portfolios, and e-commerce.",
+            1,
+            [
+                "weebly",
+                "builder",
+                "ecommerce"
+            ]
+        ],
+        "post": [
+            "https://blogpost.com",
+            "Localized platform for blogging and personal websites.",
+            1,
+            [
+                "post",
+                "blogging",
+                "localized"
+            ]
+        ],
+        "typepad": [
+            "https://www.typepad.com",
+            "Hosted blogging service for professionals.",
+            1,
+            [
+                "typepad",
+                "blogging",
+                "service"
+            ]
+        ],
+        "livejournal": [
+            "https://www.livejournal.com",
+            "Social network built around constantly updated blogs.",
+            1,
+            [
+                "livejournal",
+                "social",
+                "network"
+            ]
+        ],
+        "micro": [
+            "https://micro.blog",
+            "Platform focused on microblogging and social networking.",
+            1,
+            [
+                "micro",
+                "blogging",
+                "networking"
+            ]
+        ],
+        "postachio": [
+            "https://postach.io",
+            "Blogging platform that turns Evernote notes into a blog.",
+            1,
+            [
+                "postachio",
+                "blogging",
+                "evernote"
+            ]
+        ],
+        "guest": [
+            "https://guestpost.com",
+            "Service connecting guest bloggers with websites.",
+            1,
+            [
+                "guest",
+                "blog",
+                "service"
+            ]
+        ]
+    },
+    "tool": {
+        "microsoft": [
+            "https://www.office.com",
+            "Suite of productivity applications from Microsoft.",
+            1,
+            [
+                "microsoft",
+                "productivity",
+                "suite"
+            ]
+        ],
+        "google": [
+            "https://workspace.google.com",
+            "Cloud-based productivity suite with apps like Docs and Sheets.",
+            1,
+            [
+                "google",
+                "suite",
+                "cloud"
+            ]
+        ],
+        "slack": [
+            "https://slack.com",
+            "Collaboration tool that combines messaging and task management.",
+            1,
+            [
+                "slack",
+                "collaboration",
+                "messaging"
+            ]
+        ],
+        "zoom": [
+            "https://zoom.us",
+            "Video conferencing and online meeting platform.",
+            1,
+            [
+                "zoom",
+                "video",
+                "conferencing"
+            ]
+        ],
+        "trello": [
+            "https://trello.com",
+            "Project management tool for organizing tasks.",
+            1,
+            [
+                "trello",
+                "project",
+                "management"
+            ]
+        ],
+        "canvas": [
+            "https://www.instructure.com/canvas",
+            "Learning management system for educational institutions.",
+            1,
+            [
+                "canvas",
+                "learning",
+                "management"
+            ]
+        ],
+        "evernote": [
+            "https://evernote.com",
+            "Note-taking app that helps users organize notes and tasks.",
+            1,
+            [
+                "evernote",
+                "note-taking",
+                "organizing"
+            ]
+        ],
+        "canva": [
+            "https://www.canva.com",
+            "Graphic design platform for creating social media graphics.",
+            1,
+            [
+                "canva",
+                "graphic",
+                "design"
+            ]
+        ],
+        "teams": [
+            "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+            "Team collaboration platform.",
+            1,
+            [
+                "teams",
+                "collaboration",
+                "team"
+            ]
+        ],
+        "framer": [
+            "https://www.framer.com",
+            "Design tool for creating responsive websites.",
+            1,
+            [
+                "framer",
+                "design",
+                "websites"
+            ]
+        ],
+        "figma": [
+            "https://www.figma.com",
+            "Interface design tool for collaboration.",
+            1,
+            [
+                "figma",
+                "interface",
+                "design"
+            ]
+        ],
+        "lucidchart": [
+            "https://www.lucidchart.com",
+            "Diagramming application for visual communication.",
+            1,
+            [
+                "lucidchart",
+                "diagramming",
+                "visual"
+            ]
+        ],
+        "airtable": [
+            "https://airtable.com",
+            "Organizational tool for creating spreadsheets and databases.",
+            1,
+            [
+                "airtable",
+                "organizational",
+                "spreadsheets"
+            ]
+        ],
+        "jira": [
+            "https://www.atlassian.com/software/jira",
+            "Project management tool for agile teams.",
+            1,
+            [
+                "jira",
+                "project",
+                "management"
+            ]
+        ],
+        "hubspot": [
+            "https://www.hubspot.com",
+            "Inbound marketing and sales software.",
+            1,
+            [
+                "hubspot",
+                "marketing",
+                "sales"
+            ]
+        ],
+        "power": [
+            "https://powerbi.microsoft.com",
+            "Business analytics service by Microsoft.",
+            1,
+            [
+                "power",
+                "analytics",
+                "business"
+            ]
+        ],
+        "quickbooks": [
+            "https://quickbooks.intuit.com",
+            "Accounting software for small businesses.",
+            1,
+            [
+                "quickbooks",
+                "accounting",
+                "software"
+            ]
+        ],
+        "notepad": [
+            "https://notepad-plus-plus.org",
+            "Text and source code editor.",
+            1,
+            [
+                "notepad",
+                "editor",
+                "text"
+            ]
+        ],
+        "blender": [
+            "https://www.blender.org",
+            "Open-source 3D modeling, animation, and editing software.",
+            1,
+            [
+                "blender",
+                "3d",
+                "modeling"
+            ]
+        ],
+        "gimp": [
+            "https://www.gimp.org",
+            "Open-source image editor similar to Photoshop.",
+            1,
+            [
+                "gimp",
+                "image",
+                "editor"
+            ]
+        ],
+        "github": [
+            "https://github.com",
+            "Platform for version control and collaboration.",
+            1,
+            [
+                "github",
+                "version",
+                "control"
+            ]
+        ],
+        "gitlab": [
+            "https://gitlab.com",
+            "Web-based DevOps lifecycle tool that provides a Git repository.",
+            1,
+            [
+                "gitlab",
+                "devops",
+                "repository"
+            ]
+        ],
+        "bitbucket": [
+            "https://bitbucket.org",
+            "Web-based version control repository hosting service owned by Atlassian.",
+            1,
+            [
+                "bitbucket",
+                "version",
+                "control"
+            ]
+        ],
+        "stackoverflow": [
+            "https://stackoverflow.com",
+            "Question and answer site for professional and enthusiast programmers.",
+            1,
+            [
+                "stackoverflow",
+                "question",
+                "answer"
+            ]
+        ],
+        "clickup": [
+            "https://clickup.com",
+            "Project management tool with collaboration features.",
+            1,
+            [
+                "clickup",
+                "project",
+                "management"
+            ]
+        ],
+        "notion": [
+            "https://www.notion.so",
+            "A versatile tool for documents, tasks, and databases.",
+            1,
+            [
+                "notion",
+                "versatile",
+                "tool"
+            ]
+        ],
+        "whimsical": [
+            "https://whimsical.com",
+            "Collaborative tool for wireframing and mind mapping.",
+            1,
+            [
+                "whimsical",
+                "collaborative",
+                "wireframing"
+            ]
+        ]
+    },
+    "government": {
+        "usa": [
+            "https://www.usa.gov",
+            "U.S. government's official web portal.",
+            1,
+            [
+                "usa",
+                "government",
+                "portal"
+            ]
+        ],
+        "uk": [
+            "https://www.gov.uk",
+            "The government of the United Kingdom's official website.",
+            1,
+            [
+                "uk",
+                "government",
+                "official"
+            ]
+        ],
+        "canada": [
+            "https://www.canada.ca",
+            "Official website of the Government of Canada.",
+            1,
+            [
+                "canada",
+                "government",
+                "official"
+            ]
+        ],
+        "australia": [
+            "https://www.australia.gov.au",
+            "Official website of the Australian Government.",
+            1,
+            [
+                "australia",
+                "government",
+                "official"
+            ]
+        ],
+        "eu": [
+            "https://europa.eu",
+            "The official website of the European Union.",
+            1,
+            [
+                "eu",
+                "government",
+                "official"
+            ]
+        ],
+        "germany": [
+            "https://www.bundesregierung.de",
+            "Federal Government of Germany's official website.",
+            1,
+            [
+                "germany",
+                "government",
+                "federal"
+            ]
+        ],
+        "india": [
+            "https://www.india.gov.in",
+            "National portal of India, providing various government services.",
+            1,
+            [
+                "india",
+                "government",
+                "services"
+            ]
+        ],
+        "singapore": [
+            "https://www.gov.sg",
+            "The official government website of Singapore.",
+            1,
+            [
+                "singapore",
+                "government",
+                "official"
+            ]
+        ],
+        "france": [
+            "https://www.gouvernement.fr",
+            "Government of France's official website.",
+            1,
+            [
+                "france",
+                "government",
+                "official"
+            ]
+        ],
+        "newzealand": [
+            "https://www.govt.nz",
+            "Official Government of New Zealand website.",
+            1,
+            [
+                "newzealand",
+                "government",
+                "official"
+            ]
+        ],
+        "sweden": [
+            "https://www.sweden.se",
+            "Official website for information about Sweden.",
+            1,
+            [
+                "sweden",
+                "government",
+                "information"
+            ]
+        ],
+        "norway": [
+            "https://www.regjeringen.no",
+            "Government of Norway official site.",
+            1,
+            [
+                "norway",
+                "government",
+                "official"
+            ]
+        ],
+        "danmark": [
+            "https://www.regeringen.dk",
+            "Website of the Danish Government.",
+            1,
+            [
+                "danmark",
+                "government",
+                "official"
+            ]
+        ],
+        "switzerland": [
+            "https://www.admin.ch",
+            "Official website of the Swiss Government.",
+            1,
+            [
+                "switzerland",
+                "government",
+                "official"
+            ]
+        ],
+        "belgium": [
+            "https://www.belgium.be",
+            "Official website of the Belgian Government.",
+            1,
+            [
+                "belgium",
+                "government",
+                "official"
+            ]
+        ],
+        "southafrica": [
+            "https://www.gov.za",
+            "Official website of the South African Government.",
+            1,
+            [
+                "southafrica",
+                "government",
+                "official"
+            ]
+        ]
+    }
+}

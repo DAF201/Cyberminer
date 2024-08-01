@@ -1,0 +1,207 @@
+{
+    "google": {
+        "google.com": [
+            "https://google.com",
+            "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking ...",
+            1
+        ],
+        "google drive": [
+            "https://www.google.com/drive",
+            "Drive can provide encrypted and secure access to your files. Files shared with you can be proactively scanned and removed when malware, spam, ransomware, ...",
+            1
+        ],
+        "google translate": [
+            "https://translate.google.com",
+            "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+            1
+        ],
+        "gmail": [
+            "https://mail.google.com/chat",
+            "Sign in to Google Chat and access powerful group messaging for personal and professional collaboration from Google Workspace.",
+            1
+        ],
+        "gemini": [
+            "https://gemini.google.com/app",
+            "Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.",
+            1
+        ],
+        "google chat": [
+            "https://mail.google.com/chat",
+            "Sign in to Google Chat and access powerful group messaging for personal and professional collaboration from Google Workspace.",
+            1
+        ],
+        "google sheet": [
+            "https://www.google.com/sheets",
+            "Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.",
+            1
+        ]
+    },
+    "google translate": {
+        "google translate": [
+            "https://translate.google.com",
+            "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+            1
+        ]
+    },
+    "translate": {
+        "google translate": [
+            "https://translate.google.com",
+            "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+            1
+        ]
+    },
+    "english": {
+        "google transalte": [
+            "https://translate.google.com",
+            "Google's service, offered free of charge, instantly translates words, phrases, and web pages between English and over 100 other languages.",
+            1
+        ]
+    },
+    "gmail": {
+        "gmail": [
+            "https://www.google.com/gmail",
+            "Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.",
+            1
+        ]
+    },
+    "email": {
+        "gmail": [
+            "https://www.google.com/gmail",
+            "Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.",
+            1
+        ]
+    },
+    "mail": {
+        "USPS": [
+            "https://usps.com",
+            "Welcome to USPS.com. Track packages, pay and print postage with Click-N-Ship, schedule free package pickups, look up ZIP Codes, calculate postage prices, ...",
+            1
+        ],
+        "gmail": [
+            "https://www.google.com/gmail",
+            "Discover how Gmail keeps your account & emails encrypted, private and under your control with the largest secure email service in the world.",
+            1
+        ]
+    },
+    "sheet": {
+        "google sheet": [
+            "https://www.google.com/sheets",
+            "Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.",
+            1
+        ]
+    },
+    "google sheet": {
+        "google sheet": [
+            "https://www.google.com/sheets",
+            "Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device.",
+            1
+        ]
+    },
+    "drive": {
+        "google drive": [
+            "https://www.google.com/drive",
+            "Drive can provide encrypted and secure access to your files. Files shared with you can be proactively scanned and removed when malware, spam, ransomware, ...",
+            1
+        ],
+        "Texas Department of Public Safety": [
+            "https://www.dps.texas.gov",
+            "The Texas Department of Public Safety is committed to recruiting and training a diverse workforce that reflects its core values: Integrity, ...",
+            1
+        ]
+    },
+    "google drive": {
+        "google drive": [
+            "https://www.google.com/drive",
+            "Drive can provide encrypted and secure access to your files. Files shared with you can be proactively scanned and removed when malware, spam, ransomware, ...",
+            1
+        ]
+    },
+    "driver": {
+        "Texas Department of Public Safety": [
+            "https://www.dps.texas.gov",
+            "The Texas Department of Public Safety is committed to recruiting and training a diverse workforce that reflects its core values: Integrity, ...",
+            1
+        ]
+    },
+    "license": {
+        "Texas Department of Public Safety": [
+            "https://www.dps.texas.gov",
+            "The Texas Department of Public Safety is committed to recruiting and training a diverse workforce that reflects its core values: Integrity, ...",
+            1
+        ]
+    },
+    "chat": {
+        "google chat": [
+            "https://mail.google.com/chat",
+            "Sign in to Google Chat and access powerful group messaging for personal and professional collaboration from Google Workspace.",
+            1
+        ],
+        "chatgpt": [
+            "https://chatgpt.com",
+            "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+            1
+        ],
+        "gemini": [
+            "https://gemini.google.com/app",
+            "Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.",
+            1
+        ]
+    },
+    "chatgpt": {
+        "chatgpt": [
+            "https://chatgpt.com",
+            "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+            1
+        ]
+    },
+    "gpt": {
+        "chatgpt": [
+            "https://chatgpt.com",
+            "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+            1
+        ]
+    },
+    "AI": {
+        "chatgpt": [
+            "https://chatgpt.com",
+            "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+            1
+        ],
+        "gemini": [
+            "https://gemini.google.com/app",
+            "Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.",
+            1
+        ]
+    },
+    "bot": {
+        "chatgpt": [
+            "https://chatgpt.com",
+            "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+            1
+        ],
+        "gemini": [
+            "https://gemini.google.com/app",
+            "Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI.",
+            1
+        ]
+    },
+    "youtube": {
+        "youtube": [
+            "https://www.youtube.com/",
+            "YouTube is an American online video sharing platform owned by Google. Accessible worldwide, YouTube was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+            2
+        ]
+    },
+    "video": {
+        "youtube": [
+            "https://www.youtube.com/",
+            "YouTube is an American online video sharing platform owned by Google. Accessible worldwide, YouTube was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim, three former employees of PayPal.",
+            1
+        ],
+        "bilibili": [
+            "https://www.bilibili.com/",
+            "Bilibili (stylized in all lowercase), nicknamed B Site, is a video-sharing website based in Shanghai where users can submit, view, and add overlaid ...",
+            1
+        ]
+    }
+}
